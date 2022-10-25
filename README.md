@@ -15,6 +15,6 @@ Use a separat potentiometer in controlling each of thecolor of the RGB led (Red,
 ![Arduino](https://user-images.githubusercontent.com/98409275/197863773-b0e5a4f0-5706-4698-9eda-f89ea92e1ea4.jpeg)
 <br>
 
-#### [DEMO] (https://youtube.com/shorts/9C6BnOa5wi8?feature=share)
+#### [DEMO](https://youtube.com/shorts/9C6BnOa5wi8?feature=share)
 
-#### [CODE] (https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework1/3%20Potentiometers%20and%201%20RGB%20Led.ino)
+#### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework1/3%20Potentiometers%20and%201%20RGB%20Led.ino)
