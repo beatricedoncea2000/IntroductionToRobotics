@@ -5,7 +5,7 @@ Code and pictures.
 
 
 ## Homework 1 <br>
-##### Components <br>
+##### Components
 RGB LED (1 minimum), potentiometers (3 minimum), resistors and wires (per logic). <br>
 
 ##### Task <br>
