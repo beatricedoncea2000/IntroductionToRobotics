@@ -4,7 +4,7 @@ Working with Arduino UNO. <br>
 Code and pictures.
 
 <details>
-<summary> Homework 1 </summary>
+<summary> ## Homework 1 </summary>
 #### Components
 RGB LED (1 minimum), potentiometers (3 minimum), resistors and wires (per logic). <br>
 
