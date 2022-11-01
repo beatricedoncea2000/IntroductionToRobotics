@@ -4,7 +4,8 @@ Working with Arduino UNO. <br>
 Code and pictures.
 
 <details>
-<summary> ## Homework 1 </summary>
+<summary> Homework 1 </summary>
+
 #### Components
 RGB LED (1 minimum), potentiometers (3 minimum), resistors and wires (per logic). <br>
 
@@ -23,6 +24,7 @@ Here is the demo https://youtu.be/b0MgJnrOVkQ
 
 <details>
 <summary> Homework 2 </summary>
+
 #### Requirements
 Building the traffic lights for a crosswalk using 2 LEDs to represent the traffic lights for pedestrians (red and green) and 3 LEDs to represent the traffic lights for cars (red, yellow and green). The traffic lights simulator will start once the button is pressed, following these states:
 - State 1: (default, reinstated after state 4 ends): green light for cars, red light for people, no sounds. Duration: indefinite, changed bypressing the button.
