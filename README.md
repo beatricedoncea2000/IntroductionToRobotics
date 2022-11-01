@@ -4,7 +4,6 @@ Working with Arduino UNO. <br>
 Code and pictures.
 
 <details>
-###
 <summary> Homework 1 </summary>
 
 #### Components
