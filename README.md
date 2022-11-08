@@ -46,3 +46,29 @@ Here is the demo https://youtu.be/kpoi5BEdz3E
 
 #### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework2/Traffic%20lights%20for%20a%20crosswalk.ino)
 </details>
+
+
+
+<details>
+<summary> Homework 3 </summary>
+
+#### Requirements
+Use the joystick to control the position of the segment and ”draw” on the display. The movement between segments should be natural (meaning they should jump from the current positiononly to neighbors, but without passing through ”walls”). The system has the following states:
+- State 1 (default, but also initiated after a button press in State 2): Current position blinking. Can use the joystick to move from one position to neighbors.   Short pressing the button toggles State2. Long pressing the button in state 1 resets the entire display byturning all the segments OFF and moving the current position to the decimal point.
+- State 2 (initiated after a button press in State 1): The current segment stops blinking, adopting the state of the segment before selection (ON or OFF). Toggling the X (or Y, you chose) axis should change the segment state from ON to OFF or from OFF to ON. Clicking the joystick should save the segment state and exit back to state 1.
+
+#### Components
+1 7-segment display, 1 joystick, resistors and wires (per logic). <br>
+
+#### Setup
+<details> 
+<summay> See here the setup </summary>
+![Arduino1](https://user-images.githubusercontent.com/98409275/200699584-a387199d-5cb3-4836-b188-112d6db299d0.jpeg)
+![Arduino2](https://user-images.githubusercontent.com/98409275/200699594-7b7fc85f-85de-4864-bbf7-3c4c4773a0d3.jpeg)
+</details>
+
+#### DEMO
+Here is the demo https://youtu.be/tZOO9YyoJVY
+
+#### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework3/Draw%20on%20a%207-segment%20display%20with%20a%20joystick.ino)
+</details>
