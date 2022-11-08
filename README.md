@@ -61,11 +61,8 @@ Use the joystick to control the position of the segment and ”draw” on the di
 1 7-segment display, 1 joystick, resistors and wires (per logic). <br>
 
 #### Setup
-<details> 
-<summay> See here the setup </summary>
 ![Arduino1](https://user-images.githubusercontent.com/98409275/200699584-a387199d-5cb3-4836-b188-112d6db299d0.jpeg)
 ![Arduino2](https://user-images.githubusercontent.com/98409275/200699594-7b7fc85f-85de-4864-bbf7-3c4c4773a0d3.jpeg)
-</details>
 
 #### DEMO
 Here is the demo https://youtu.be/tZOO9YyoJVY
