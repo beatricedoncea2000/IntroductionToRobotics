@@ -69,3 +69,31 @@ Here is the demo https://youtu.be/tZOO9YyoJVY
 
 #### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework3/Draw%20on%20a%207-segment%20display%20with%20a%20joystick.ino)
 </details>
+
+
+
+
+
+
+
+<details>
+<summary> Homework 4 </summary>
+
+#### Requirements
+Use the joystick to move through the 4 digit 7segment displays digits, press the button to lock in on the current digit and use the other axis to increment or decrement the number. Keep thebutton pressed to reset all the digit values and the current position to the first digit in the first state. The system has the following states:
+- State 1: you can use a joystick axis to cycle through the 4 digits; using the other axis does nothing. A blinking decimal point shows the current digit position.  When pressing the button, you lock in on the selected digit and enter the second state.
+- State 2: in this state, the decimal point stays always on, no longer blinking and you can no longer use the axis to cycle through the 4 digits. Instead, using the  other axis, you can increment on decrement the number on the current digit IN HEX (aka from 0 to F, as in the lab). Pressing the button again returns you to the previous state. Also, keep in mind that when changing the number, you must increment it for each joystick movement - it should not work continuosly increment if you keep the joystick in one position(aka with joyMoved).
+-State 3:  toggled by long pressing the buttononly in the first state .When resetting, all the digits go back to 0 and the current position is set to the first (rightmost) digit, in the first state.
+
+#### Components
+a joystick, a 4 digit 7-segment display, a 74hc595 shift register. <br>
+
+#### Setup
+![Arduino1](https://user-images.githubusercontent.com/98409275/200699584-a387199d-5cb3-4836-b188-112d6db299d0.jpeg)
+![Arduino2](https://user-images.githubusercontent.com/98409275/200699594-7b7fc85f-85de-4864-bbf7-3c4c4773a0d3.jpeg)
+
+#### DEMO
+Here is the demo https://youtube.com/shorts/5cMVC6wC5gY?feature=share
+
+#### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework3/Draw%20on%20a%207-segment%20display%20with%20a%20joystick.ino)
+</details>
