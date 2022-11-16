@@ -89,11 +89,12 @@ Use the joystick to move through the 4 digit 7segment displays digits, press the
 a joystick, a 4 digit 7-segment display, a 74hc595 shift register. <br>
 
 #### Setup
-![Arduino1](https://user-images.githubusercontent.com/98409275/200699584-a387199d-5cb3-4836-b188-112d6db299d0.jpeg)
-![Arduino2](https://user-images.githubusercontent.com/98409275/200699594-7b7fc85f-85de-4864-bbf7-3c4c4773a0d3.jpeg)
+![Arduino1](https://user-images.githubusercontent.com/98409275/202050083-b8e0fce8-e0bc-4d2d-b64d-19211d69c5e3.jpeg)
+![Arduino2](https://user-images.githubusercontent.com/98409275/202050090-a6a5c845-f475-4178-a96b-2ecf60a2a55d.jpeg)
+
 
 #### DEMO
 Here is the demo https://youtube.com/shorts/5cMVC6wC5gY?feature=share
 
-#### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework3/Draw%20on%20a%207-segment%20display%20with%20a%20joystick.ino)
+#### [CODE](https://github.com/beatricedoncea2000/IntroductionToRobotics/blob/main/homework4/4%20digit%207-segment%20display%20and%20shift%20register.ino)
 </details>
